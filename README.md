@@ -4,5 +4,4 @@
   <li>OTP</li>
   <li>Trivium</li>
   <li>Hash video</li>
-  <li></li>
 </ul>
